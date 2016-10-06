@@ -3,12 +3,14 @@
 	padding: 0 auto;
 }
 
+								/* ACÁ LOS ESTILOS DEL MENU */
 .navbar {
 	background-color: #fff;
 	border: none;
 	margin-bottom: 0px !important;
 }
 
+								/* ACÁ LOS ESTILOS DEL BANNER */
 .banner {
 	background-image: url(../img/home.jpg);
 	background-repeat: no-repeat;
@@ -21,6 +23,7 @@
 	color: #fff;
 }
 
+								/* ACÁ LOS ESTILOS DE LA SECCION DOCUMENTAL */
 .documental {
 	padding: 50px 0;
 }
@@ -35,11 +38,15 @@
 	height: auto;
 }
 
+								/* ACÁ LOS ESTILOS DE LA SECCION HACKATHON */
+
 .hackathon {
 	padding: 50px 0;
 	background-color: #F9F603;
 }
 
+
+								/* ACÁ LOS ESTILOS DE LA SECCION CONTACTO */
 .contacto {
 	padding: 50px 0;
 }
@@ -51,6 +58,9 @@
 form {
 	padding-top: 20px;
 }
+
+
+								/* ACÁ LOS ESTILOS DEL FOOTER */
 
 footer {
 	background-color: #5698F3;
