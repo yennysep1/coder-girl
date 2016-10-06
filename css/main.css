@@ -29,6 +29,12 @@
 	padding: 20px 0;
 }
 
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
 .hackathon {
 	padding: 50px 0;
 	background-color: #F9F603;
